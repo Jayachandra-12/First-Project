@@ -1,2 +1,2 @@
 # First-Project
-prediction of airline tickets using machine learning with python
+prediction of price of airline tickets using machine learning with python
